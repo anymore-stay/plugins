@@ -1,5 +1,5 @@
 {
-  "name": "openai-curated",
+  "name": "personal-openai-plugins",
   "interface": {
     "displayName": "Codex official"
   },
